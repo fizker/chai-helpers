@@ -1,0 +1,26 @@
+{ "name": "finc-chai-helpers"
+, "version": "0.1.0"
+, "description": "A collection of various chai helper functions."
+, "main": "index.js"
+, "directories":
+  { "test": "test"
+  }
+, "devDependencies":
+  { "mocha": "~1.8.1"
+  , "chai": "~1.5.0"
+  }
+, "scripts":
+  { "test": "mocha"
+  }
+, "repository":
+  { "type": "git"
+  , "url": "git://github.com/fizker/chai-helpers.git"
+  }
+, "keywords":
+  [ "chai"
+  , "testing"
+  ]
+, "author": "Benjamin Horsleben"
+, "license": "WTFPL"
+, "readmeFilename": "readme.md"
+}
