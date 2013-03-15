@@ -3,7 +3,7 @@ chai-helpers
 
 A collection of various chai helper functions.
 
-In Node.js, it is set up by calling `require('fzk-chai-helpers').addMethods(chai)`
+In Node.js, it is set up by calling `require('finc-chai-helpers').addMethods(chai)`
 before running any tests.
 
 Currently, there are one helper:
